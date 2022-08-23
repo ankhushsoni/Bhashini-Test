@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'Bhashini-Test-App'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_413E21BE7429463984CBCA23A9E83C7D }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AB0A9441D0BE4E649F88B09FBECD1D84 }}
           package: .
